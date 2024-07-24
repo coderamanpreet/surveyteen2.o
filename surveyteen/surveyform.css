@@ -1,0 +1,8 @@
+.main{
+    border: 1cm;
+    border-color: Black;
+    background-image: url(sky.jpg);
+    text-align: center;
+    backface-visibility: visible;
+    background-color: rgba(240, 248, 255, 0.618);
+}
